@@ -1,0 +1,4 @@
+in output of (sh 10) 
+1-local IP
+2-NAT IP
+3-Public IP

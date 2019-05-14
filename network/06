@@ -1,0 +1,3 @@
+/etc/resolv.conf
+OR
+/var/run/resolv.conf

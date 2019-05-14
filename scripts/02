@@ -1,0 +1,4 @@
+su
+USER=kek
+pgrep -u $USER | while read PID; do kill $PID; done
+sudo userdel $USER

@@ -1,0 +1,3 @@
+mi-d1.21-school.ru.
+
+#for OUT in $(sh 12); do nslookup $OUT; done
